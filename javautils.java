@@ -9,4 +9,4 @@ hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 err
-# This time have seen some ssl error next time successful 
+echo This time have seen some ssl error next time successful 
